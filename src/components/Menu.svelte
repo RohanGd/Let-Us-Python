@@ -11,7 +11,7 @@
     style="background-image: url('src/assets/menubg.png'); background-size: cover; background-position: center;"
   >
     <p class="text-6xl text-white font-bold mt-10 font-pressstart">
-      Game Title
+      Let Us Python
     </p>
     <div class="flex flex-col items-start mt-12">
       <button
